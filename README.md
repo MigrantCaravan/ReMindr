@@ -1,7 +1,12 @@
 # ReMindr
 
+## Description
+
 A To-Do list web application made with React
+
 ![](public/Screenshot.png)
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
